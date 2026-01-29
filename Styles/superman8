@@ -1,58 +1,40 @@
-/* Requirement #5 */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   margin-left: 10px;
 }
-
-/* Requirement #6 */
 a:focus,
 a:hover {
   font-style: italic;
   color: orangered;
 }
-
-/* Requirement #7 */
 header h1 {
   font-size: 175%;
   color: maroon;
   text-indent: 30px;
 }
-
-/* Requirement #8 */
 header h2 {
   font-size: 130%;
   color: #800000;
   text-indent: 30px;
 }
-
-/* Requirement #9 */
 header img {
   float: left;
 }
-
-/* Requirement #10 */
 .shadow {
   text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
-
-/* Requirement #11 */
 main {
   clear: left;
 }
-
-/* Requirement #12 */
 main h3 {
   margin-top: 3em;
   font-size: 105%;
 }
-
-/* Requirement #13 */
 #list {
   line-height: 1.5em;
 }
-
-/* Requirement #14 */
 footer p.copyright {
   text-align: center;
   font-size: 80%;
