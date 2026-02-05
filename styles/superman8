@@ -1,4 +1,6 @@
-
+html {
+  background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
@@ -7,23 +9,23 @@ body {
 a:focus,
 a:hover {
   font-style: italic;
-  color: rgb(0, 30, 255);
+  color: orangered;
 }
 header h1 {
   font-size: 175%;
-  color: rgb(0, 30, 128);
+  color: maroon;
   text-indent: 30px;
 }
 header h2 {
   font-size: 130%;
-  color: #330080;
+  color: #800000;
   text-indent: 30px;
 }
 header img {
   float: left;
 }
 .shadow {
-  text-shadow: 2px 2px 2px rgb(128, 64, 0);
+  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 main {
   clear: left;
