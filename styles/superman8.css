@@ -4,7 +4,15 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
-  margin-left: 10px;
+  width: 1000px;
+  margin-left: 15px auto;
+  padding: 15px 1.5em;
+  border: 1px #800000;
+  border-radius: 25px;
+  box-shadow: 5px 5px 0 0;
+  background: url("images/sh.png");
+  background-attachment: fixed;
+  background-color: crimson;
 }
 a:focus,
 a:hover {
