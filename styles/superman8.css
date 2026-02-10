@@ -50,14 +50,14 @@ main nav{
 margin: 1.5em 2em 1.5em;
 border: 5px dashed burlywood;
 border-radius: 20ox;
-box-shadow: 3px 3px 4px 4px  crimson;
+box-shadow: 3px 3px 4px 4px  rgb(255, 255, 255);
 padding: 0.5em;
 }
 main div.contact{
 margin: 1.5em 2em 1.5em;
 border: 5px dashed burlywood;
 border-radius: 20ox;
-box-shadow: 3px 3px 4px 4px  crimson;
+box-shadow: 3px 3px 4px 4px  rgb(20, 143, 220);
 padding: 1em;
 }
 
