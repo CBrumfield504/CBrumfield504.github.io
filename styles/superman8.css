@@ -7,7 +7,7 @@ body {
   width: 1000px;
   margin-left: 15px auto;
   padding: 15px 1.5em;
-  border: 1px #800000;
+  border: 1px #e6d53e;
   border-radius: 25px;
   box-shadow: 5px 5px 0 0;
   background: url("images/sh.png");
@@ -17,23 +17,23 @@ body {
 a:focus,
 a:hover {
   font-style: italic;
-  color: orangered;
+  color: rgb(235, 190, 100);
 }
 header h1 {
   font-size: 175%;
-  color: maroon;
+  color: rgb(243, 241, 241);
   text-indent: 30px;
 }
 header h2 {
   font-size: 130%;
-  color: #800000;
+  color: #1d0000;
   text-indent: 30px;
 }
 header img {
   float: left;
 }
 .shadow {
-  text-shadow: 2px 2px 2px rgb(128, 0, 0);
+  text-shadow: 2px 2px 2px red(128, 0, 0);
 }
 main {
   clear: left;
@@ -59,8 +59,8 @@ border: 5px dashed burlywood;
 border-radius: 20ox;
 box-shadow: 3px 3px 4px 4px  red;
 padding: 1em;
-
 }
+
 #list {
   line-height: 1.5em;
 }
