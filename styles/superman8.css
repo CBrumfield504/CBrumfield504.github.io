@@ -7,12 +7,12 @@ body {
   width: 1000px;
   margin-left: 15px auto;
   padding: 15px 1.5em;
-  border: 1px #ffffff;
+  border: 1px #ff0000be;
   border-radius: 25px;
-  box-shadow: 5px 5px 0 0;
+  box-shadow: 5px 5px 0 0 crimson;
   background: url("background-image");
   background-attachment: fixed;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
 }
 a:focus,
 a:hover {
@@ -26,14 +26,14 @@ header h1 {
 }
 header h2 {
   font-size: 130%;
-  color: #000000;
+  color: #ffffff;
   text-indent: 30px;
 }
 header img {
   float: left;
 }
 .shadow {
-  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  text-shadow: 2px 2px 2px rgb(255, 255, 255);
 }
 main {
   clear: left;
@@ -57,7 +57,7 @@ main div.contact{
 margin: 1.5em 2em 1.5em;
 border: 5px dashed burlywood;
 border-radius: 20ox;
-box-shadow: 3px 3px 4px 4px  rgb(20, 143, 220);
+box-shadow: 3px 3px 4px 4px (crimson);
 padding: 1em;
 }
 
