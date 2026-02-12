@@ -21,19 +21,19 @@ a:hover {
 }
 header h1 {
   font-size: 175%;
-  color: rgb(243, 241, 241);
+  color: rgb(255, 0, 0);
   text-indent: 30px;
 }
 header h2 {
   font-size: 130%;
-  color: #ffffff;
+  color: #ff0000;
   text-indent: 30px;
 }
 header img {
   float: left;
 }
 .shadow {
-  text-shadow: 2px 2px 2px rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px rgb(255, 0, 0);
 }
 main {
   clear: left;
